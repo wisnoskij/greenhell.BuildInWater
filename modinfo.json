@@ -1,0 +1,13 @@
+{
+  "name": "Build In Water",
+  "author": "Wisnoskij",
+  "description": "Inspired by Farkets river base. This mod turns off dropping heavy objects while swiming, you can swim right up to your foundations to place materials. You are also able to turn off swimming altogether (in the pause menu) and walk across the bottom to pick up dropped materials.",
+  "version": "v1.0.0",
+  "license": "Use it however you want, with or without attribution",
+  "icon": "Icon.png",
+  "banner": "Banner.jpg",
+  "gameVersion": "Update 2.0.1",
+  "updateUrl": "https://greenhellmodding.com/api/v1/mods/buildinwater/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
